@@ -1,0 +1,4 @@
+config\DBConn.class
+controllers\UsuarioController.class
+database\UsuarioDAO.class
+model\Usuario.class
